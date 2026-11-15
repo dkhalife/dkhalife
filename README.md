@@ -12,6 +12,13 @@ I believe the best software is **software you own**. That's why I self-host ever
 - **[Meross Local Broker](https://github.com/dkhalife/meross-local-broker)** — Home Assistant addon that keeps IoT device communication LAN-local via MQTT.
 - **[Eclipse Mosquitto with Auth](https://github.com/dkhalife/eclipse-mosquitto-with-auth)** — A Mosquitto fork with drop-in authentication.
 
+### Self-Hosted & Closed Source
+The parts of my stack that stay on my hardware and out of the public eye.
+
+- **My Journey** — A personal location timeline that automatically records everywhere I go and everything I visit, and helps me plan my travels.
+- **Agenty Factory** — My private infrastructure for running LLM-driven jobs end to end on local GPUs. No external APIs, nothing leaves the network.
+- **Jarvis** — My personal assistant ecosystem, reachable from an Android app, Signal, and a wearable I'm building myself.
+
 ### Engineering Productivity
 - **[Azure Pipelines Debugger](https://github.com/dkhalife/azure-pipelines-debugger)** — VS Code extension that helps you understand YAML template expansion for Azure Pipelines. Breakpoints, call stacks, watch expressions — the full debugging experience, but for CI/CD templates processing.
 - **[Azure Log Analytics MCP](https://github.com/dkhalife/azure-log-analytics-mcp)** — An MCP server that lets AI assistants query your Azure Log Analytics workspaces using KQL.
@@ -44,8 +51,8 @@ I believe the best software is **software you own**. That's why I self-host ever
 
 ## 🏛️ A Few Highlights
 
-- 📜 **Patent holder** — 2 US patents with 2 more in the works
-- 🏗️ **Built at scale** — Nearly a decade shipping features in products used by hundreds of millions
+- 📜 **Patent holder** — 3 US patents with 1 more in the works
+- 🏗️ **Built at scale** — Over a decade shipping features in products used by hundreds of millions
 - 🌍 **Quadrilingual** — English, French, Arabic, Spanish
 
 ## 📊 GitHub Stats
